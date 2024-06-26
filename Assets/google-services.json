@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776267993516",
+    "project_id": "love-birds-b3ab0",
+    "storage_bucket": "love-birds-b3ab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776267993516:android:9ceb9e72272a315648ea09",
+        "android_client_info": {
+          "package_name": "com.bbg.love.birds.line.draw.games"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGHdxS89Cy6NshYD2NkfIMvs7_yv7wKzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

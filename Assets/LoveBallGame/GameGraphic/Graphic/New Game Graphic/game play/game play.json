@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "Untitled-5_0001_Rounded-Rectangle-7-copy-2.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 1007,
+        "h": 29
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1007,
+        "h": 29
+      },
+      "sourceSize": {
+        "w": 1007,
+        "h": 29
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-4_0001_next-copy.png": {
+      "frame": {
+        "x": 2,
+        "y": 35,
+        "w": 90,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 89
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-4_0004_hint-copy.png": {
+      "frame": {
+        "x": 2,
+        "y": 128,
+        "w": 90,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 89
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-4_0002_meun.png": {
+      "frame": {
+        "x": 2,
+        "y": 221,
+        "w": 89,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 89,
+        "h": 89
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-4_0003_retry-copy-2.png": {
+      "frame": {
+        "x": 2,
+        "y": 314,
+        "w": 89,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 89,
+        "h": 89
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-4_0000_Group-35-copy-2.png": {
+      "frame": {
+        "x": 2,
+        "y": 407,
+        "w": 52,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-5_0000_Rounded-Rectangle-7-copy-3.png": {
+      "frame": {
+        "x": 2,
+        "y": 478,
+        "w": 550,
+        "h": 19
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 550,
+        "h": 19
+      },
+      "sourceSize": {
+        "w": 550,
+        "h": 19
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "game play.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 512
+    },
+    "scale": 1
+  }
+}

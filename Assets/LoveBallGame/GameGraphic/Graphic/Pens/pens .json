@@ -1,0 +1,279 @@
+{
+  "frames": {
+    "Untitled-8_0010_basic-copy.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 409,
+        "h": 491
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 0,
+        "w": 409,
+        "h": 491
+      },
+      "sourceSize": {
+        "w": 458,
+        "h": 499
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-8_0009_angle-copy.png": {
+      "frame": {
+        "x": 2,
+        "y": 497,
+        "w": 417,
+        "h": 487
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 4,
+        "w": 417,
+        "h": 487
+      },
+      "sourceSize": {
+        "w": 458,
+        "h": 499
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-8_0004_bat-copy-3.png": {
+      "frame": {
+        "x": 415,
+        "y": 2,
+        "w": 445,
+        "h": 456
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 34,
+        "w": 445,
+        "h": 456
+      },
+      "sourceSize": {
+        "w": 458,
+        "h": 499
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-8_0007_ball-pen-copy.png": {
+      "frame": {
+        "x": 2,
+        "y": 988,
+        "w": 426,
+        "h": 441
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 52,
+        "w": 426,
+        "h": 441
+      },
+      "sourceSize": {
+        "w": 458,
+        "h": 499
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-8_0008_christmass-copy-3.png": {
+      "frame": {
+        "x": 423,
+        "y": 462,
+        "w": 390,
+        "h": 441
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 58,
+        "w": 390,
+        "h": 441
+      },
+      "sourceSize": {
+        "w": 458,
+        "h": 499
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-8_0002_mini-copy.png": {
+      "frame": {
+        "x": 2,
+        "y": 1433,
+        "w": 418,
+        "h": 437
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 53,
+        "w": 418,
+        "h": 437
+      },
+      "sourceSize": {
+        "w": 458,
+        "h": 499
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-8_0001_bird-copy.png": {
+      "frame": {
+        "x": 424,
+        "y": 1433,
+        "w": 429,
+        "h": 435
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 53,
+        "w": 429,
+        "h": 435
+      },
+      "sourceSize": {
+        "w": 458,
+        "h": 499
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-8_0003_cat-copy.png": {
+      "frame": {
+        "x": 432,
+        "y": 907,
+        "w": 395,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 57,
+        "w": 395,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 458,
+        "h": 499
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-8_0006_zombie-copy.png": {
+      "frame": {
+        "x": 817,
+        "y": 462,
+        "w": 399,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 69,
+        "w": 399,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 458,
+        "h": 499
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-8_0005_simple-pen-copy.png": {
+      "frame": {
+        "x": 864,
+        "y": 2,
+        "w": 389,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 62,
+        "w": 389,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 458,
+        "h": 499
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-8_0000_hellowen-copy.png": {
+      "frame": {
+        "x": 831,
+        "y": 896,
+        "w": 435,
+        "h": 429
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 58,
+        "w": 435,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 458,
+        "h": 499
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "pens .png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    },
+    "scale": 1
+  }
+}

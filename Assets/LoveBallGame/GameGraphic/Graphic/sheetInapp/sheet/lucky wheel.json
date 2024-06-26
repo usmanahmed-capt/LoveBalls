@@ -1,0 +1,399 @@
+{
+  "frames": {
+    "Untitled-7_0011_board.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 737,
+        "h": 450
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 737,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 737,
+        "h": 450
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0008_Group-48.png": {
+      "frame": {
+        "x": 2,
+        "y": 456,
+        "w": 442,
+        "h": 269
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 442,
+        "h": 269
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 269
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0015_final.png": {
+      "frame": {
+        "x": 2,
+        "y": 729,
+        "w": 323,
+        "h": 265
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 323,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 323,
+        "h": 265
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0000_Group-47.png": {
+      "frame": {
+        "x": 329,
+        "y": 729,
+        "w": 261,
+        "h": 218
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 261,
+        "h": 218
+      },
+      "sourceSize": {
+        "w": 261,
+        "h": 218
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0009_Rounded-Rectangle-8.png": {
+      "frame": {
+        "x": 329,
+        "y": 951,
+        "w": 248,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 248,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 248,
+        "h": 65
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0007_Rounded-Rectangle-10.png": {
+      "frame": {
+        "x": 581,
+        "y": 951,
+        "w": 443,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 443,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 443,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0004_LIMITED---TIME-OFFER.png": {
+      "frame": {
+        "x": 1028,
+        "y": 951,
+        "w": 416,
+        "h": 29
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 416,
+        "h": 29
+      },
+      "sourceSize": {
+        "w": 416,
+        "h": 29
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0001_Group-45.png": {
+      "frame": {
+        "x": 448,
+        "y": 456,
+        "w": 243,
+        "h": 183
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 183
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 183
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0006_Rounded-Rectangle-11-copy-2.png": {
+      "frame": {
+        "x": 448,
+        "y": 643,
+        "w": 238,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 238,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 238,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0002_Group-43.png": {
+      "frame": {
+        "x": 594,
+        "y": 719,
+        "w": 165,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 165,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 169
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0003_Group-38.png": {
+      "frame": {
+        "x": 695,
+        "y": 456,
+        "w": 176,
+        "h": 156
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0012_no-ads.png": {
+      "frame": {
+        "x": 695,
+        "y": 616,
+        "w": 100,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 99
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0014_chest-copy.png": {
+      "frame": {
+        "x": 763,
+        "y": 719,
+        "w": 142,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0005_Group-49-copy.png": {
+      "frame": {
+        "x": 1448,
+        "y": 2,
+        "w": 487,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 487,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 487,
+        "h": 104
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0010_Group-43-copy.png": {
+      "frame": {
+        "x": 743,
+        "y": 110,
+        "w": 134,
+        "h": 136
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 136
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-7_0013_Group-42-copy.png": {
+      "frame": {
+        "x": 875,
+        "y": 2,
+        "w": 199,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 199,
+        "h": 101
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "lucky wheel.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 1024
+    },
+    "scale": 1
+  }
+}

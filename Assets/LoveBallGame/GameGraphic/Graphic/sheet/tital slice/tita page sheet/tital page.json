@@ -1,0 +1,207 @@
+{
+  "frames": {
+    "Untitled-7.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 729,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 729,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 729,
+        "h": 55
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-6_0000_Shape-691-copy.png": {
+      "frame": {
+        "x": 735,
+        "y": 2,
+        "w": 265,
+        "h": 247
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 265,
+        "h": 247
+      },
+      "sourceSize": {
+        "w": 265,
+        "h": 247
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-8.png": {
+      "frame": {
+        "x": 2,
+        "y": 61,
+        "w": 557,
+        "h": 222
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 557,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 557,
+        "h": 222
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-6_0001_Shape-691.png": {
+      "frame": {
+        "x": 563,
+        "y": 253,
+        "w": 290,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 290,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 290,
+        "h": 273
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-9.png": {
+      "frame": {
+        "x": 2,
+        "y": 287,
+        "w": 476,
+        "h": 187
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 476,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 476,
+        "h": 187
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-10.png": {
+      "frame": {
+        "x": 2,
+        "y": 478,
+        "w": 471,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 471,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 471,
+        "h": 45
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-5_0000_female-ball1.png": {
+      "frame": {
+        "x": 2,
+        "y": 530,
+        "w": 236,
+        "h": 193
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 193
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 193
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-5_0001_male-ball.png": {
+      "frame": {
+        "x": 242,
+        "y": 527,
+        "w": 236,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 190
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "tital page.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": 1
+  }
+}

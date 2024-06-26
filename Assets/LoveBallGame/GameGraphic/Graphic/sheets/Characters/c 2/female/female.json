@@ -1,0 +1,231 @@
+{
+  "frames": {
+    "Untitled-22_0000_Group-61.png_0007_Untitled-22_0022_Group-1.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 345,
+        "h": 345
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 345,
+        "h": 345
+      },
+      "sourceSize": {
+        "w": 345,
+        "h": 345
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-23_0003_Untitled-6_0035_Group-94.png": {
+      "frame": {
+        "x": 2,
+        "y": 351,
+        "w": 344,
+        "h": 140
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 344,
+        "h": 140
+      },
+      "sourceSize": {
+        "w": 344,
+        "h": 140
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-25_0000_Untitled-12_0002_smile.png": {
+      "frame": {
+        "x": 350,
+        "y": 351,
+        "w": 119,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 119,
+        "h": 124
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "right-lashes.png": {
+      "frame": {
+        "x": 473,
+        "y": 351,
+        "w": 124,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 124,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 124,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "right-brow.png": {
+      "frame": {
+        "x": 473,
+        "y": 465,
+        "w": 76,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 33
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-4_0000_basic-copy-5.png_0006_Untitled-4_0022_Group-40.png": {
+      "frame": {
+        "x": 351,
+        "y": 2,
+        "w": 144,
+        "h": 215
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 28,
+        "w": 144,
+        "h": 215
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-25_0001_Untitled-12_0001_normal-copy-11.png": {
+      "frame": {
+        "x": 351,
+        "y": 221,
+        "w": 119,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 119,
+        "h": 124
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-25_0002_Untitled-12_0000_sad-copy-14.png": {
+      "frame": {
+        "x": 474,
+        "y": 221,
+        "w": 117,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 8,
+        "w": 117,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 119,
+        "h": 124
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "right-lens.png": {
+      "frame": {
+        "x": 595,
+        "y": 221,
+        "w": 75,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 75,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "gg.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 512
+    },
+    "scale": 1
+  }
+}

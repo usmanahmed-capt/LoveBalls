@@ -1,0 +1,207 @@
+{
+  "frames": {
+    "Untitled-22_0000_Group-61.png_0012_Untitled-22_0017_Group-64.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 345,
+        "h": 345
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 345,
+        "h": 345
+      },
+      "sourceSize": {
+        "w": 345,
+        "h": 345
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-18_0000_sad-copy-4.png_0008_Layer-1.png": {
+      "frame": {
+        "x": 351,
+        "y": 2,
+        "w": 123,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 123,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-4_0000_basic-copy-5.png_0012_Untitled-4_0016_Shape-5-copy-2.png": {
+      "frame": {
+        "x": 351,
+        "y": 75,
+        "w": 119,
+        "h": 271
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 0,
+        "w": 119,
+        "h": 271
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 271
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-18_0000_sad-copy-4.png_0006_Untitled-18_0002_smile-copy-4.png": {
+      "frame": {
+        "x": 351,
+        "y": 350,
+        "w": 115,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 0,
+        "w": 115,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 123,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "right-lens.png": {
+      "frame": {
+        "x": 2,
+        "y": 423,
+        "w": 75,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 75,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-18_0000_sad-copy-4.png_0007_Untitled-18_0001_normal-copy-4.png": {
+      "frame": {
+        "x": 81,
+        "y": 423,
+        "w": 115,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 0,
+        "w": 115,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 123,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "right-brow.png": {
+      "frame": {
+        "x": 2,
+        "y": 351,
+        "w": 76,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 33
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "right-lashes.png": {
+      "frame": {
+        "x": 200,
+        "y": 351,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "male.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 512
+    },
+    "scale": 1
+  }
+}

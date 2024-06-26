@@ -1,0 +1,514 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1246004481746296180
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6339339453679658567}
+  - component: {fileID: 1381566745767461710}
+  - component: {fileID: 3696190060787423926}
+  - component: {fileID: 1887088753076638978}
+  m_Layer: 0
+  m_Name: Mediation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6339339453679658567
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246004481746296180}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3012022661265753681}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1381566745767461710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246004481746296180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 064ca4012e42d3543b8e840856e4cd73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  appKey: d6bd0509
+  position: 1
+  ShowBannerOnStart: 0
+  isShowing: 0
+--- !u!114 &3696190060787423926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246004481746296180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d9994eec76fb4a46aaace87be586d67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1887088753076638978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246004481746296180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8a53e6a0e0519a40a85edb8188519e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &2134108416668291718
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8590418080723355475}
+  - component: {fileID: 1150325747486859062}
+  m_Layer: 0
+  m_Name: Banner1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8590418080723355475
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134108416668291718}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3012022661265753681}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1150325747486859062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134108416668291718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d71f23881f7c94498e372b8557cf4ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowBannerOnLoad: 0
+  Use3Ids: 1
+  BannerPosition: 0
+  BannerType: 0
+  BannerIdHigh: ca-app-pub-3940256099942544/6300978111
+  BannerIdMedium: ca-app-pub-3940256099942544/6300978111
+  BannerId: ca-app-pub-3940256099942544/6300978111
+  isShowing: 0
+  LastTimeActive: 0
+--- !u!1 &2137349991172158224
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6073584234571157117}
+  - component: {fileID: 5285752030158873087}
+  m_Layer: 0
+  m_Name: 'BigBanner '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6073584234571157117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2137349991172158224}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3012022661265753681}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5285752030158873087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2137349991172158224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d71f23881f7c94498e372b8557cf4ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowBannerOnLoad: 0
+  Use3Ids: 1
+  BannerPosition: 4
+  BannerType: 3
+  BannerIdHigh: ca-app-pub-3940256099942544/6300978111
+  BannerIdMedium: ca-app-pub-3940256099942544/6300978111
+  BannerId: ca-app-pub-3940256099942544/6300978111
+  isShowing: 0
+  LastTimeActive: 0
+--- !u!1 &7406659667758597351
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7406659667758597353}
+  - component: {fileID: 7406659667758597352}
+  m_Layer: 0
+  m_Name: MAX
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7406659667758597353
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7406659667758597351}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.5562465, y: -0.8023362, z: -0.06389009}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3012022661265753681}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7406659667758597352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7406659667758597351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c33085287be25e45b2ecf6f9d578bd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &7406659668654043983
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3012022661265753681}
+  - component: {fileID: 7406659668280020457}
+  - component: {fileID: 7157166561839383723}
+  - component: {fileID: 1618974485231557024}
+  - component: {fileID: 1001973883458808891}
+  - component: {fileID: 7406659668654044020}
+  - component: {fileID: 7406659668654044021}
+  m_Layer: 0
+  m_Name: AdmobManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3012022661265753681
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7406659668654043983}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.556244, y: 0.80233765, z: 0.06389009}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8590418080723355475}
+  - {fileID: 7287944317369106435}
+  - {fileID: 6073584234571157117}
+  - {fileID: 5700494952577097073}
+  - {fileID: 6339339453679658567}
+  - {fileID: 7406659667758597353}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7406659668280020457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7406659668654043983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efffa93de78b6824e87118c34d54f5a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UseInterstitial3Ids: 1
+  UseRewarded3Ids: 1
+  UseRewardedInterstitial3Ids: 1
+  UseAppOpen: 1
+  UseRewardedVideo: 1
+  UseBigBanner: 1
+  UseMediationBigBanner: 0
+  UseMediationBanner: 1
+  UseAdmobBanner: 1
+  UsePaidEvent: 0
+  OnRewardedVideoCompleted:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRewardedInterstitialCompleted:
+    m_PersistentCalls:
+      m_Calls: []
+  NoVideoAvailble:
+    m_PersistentCalls:
+      m_Calls: []
+  OnAdShow:
+    m_PersistentCalls:
+      m_Calls: []
+  OnInterstitialAdClose:
+    m_PersistentCalls:
+      m_Calls: []
+  OnBannerLoaded:
+    m_PersistentCalls:
+      m_Calls: []
+  OnBannerHide:
+    m_PersistentCalls:
+      m_Calls: []
+  OnBannerShow:
+    m_PersistentCalls:
+      m_Calls: []
+  OnAppOpenShow:
+    m_PersistentCalls:
+      m_Calls: []
+  OnAppOpenHide:
+    m_PersistentCalls:
+      m_Calls: []
+  OnAdDismissed:
+    m_PersistentCalls:
+      m_Calls: []
+  ReviewBool: ReviewGame_37
+  screenOrientation: 3
+  FamilyAds: 1
+  AppId: ca-app-pub-1518737559739261~9906103357
+  UseDeviceCheck: 1
+  Banners:
+  - BannerPosition: 0
+    Banner: {fileID: 1150325747486859062}
+  BigBanners: []
+  AppOpenId: ca-app-pub-3940256099942544/3419835294
+  InterstitialHighId: ca-app-pub-3940256099942544/1033173712
+  InterstitialMediumId: ca-app-pub-3940256099942544/1033173712
+  InterstitialLowId: ca-app-pub-3940256099942544/1033173712
+  RewardedAdIDHigh: ca-app-pub-3940256099942544/5224354917
+  RewardedAdIDMedium: ca-app-pub-3940256099942544/5224354917
+  RewardedAdIDLow: ca-app-pub-3940256099942544/5224354917
+  Rewarded_Interstitial_High: ca-app-pub-3940256099942544/5224354917
+  Rewarded_Interstitial_Medium: ca-app-pub-3940256099942544/5224354917
+  Rewarded_Interstitial_Default: ca-app-pub-3940256099942544/5354046379
+--- !u!114 &7157166561839383723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7406659668654043983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf110007d4357f541a67d5326460647e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AdmobFirst: 0
+  AdsTimerThreshold: 30
+--- !u!114 &1618974485231557024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7406659668654043983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33f2272f6f2e80941b24f8a97f401faf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeOut: 1
+  ping: 120
+--- !u!114 &1001973883458808891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7406659668654043983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecf8bab00ae82da43907397fb7bb6d09, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7406659668654044020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7406659668654043983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e9c9d28a4e7b034f96a458ad2dd3396, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  firebaseInitialized: 0
+--- !u!114 &7406659668654044021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7406659668654043983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31df9386d4fb9c047926006e39dd4b6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &8727489648382839264
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5700494952577097073}
+  - component: {fileID: 9185782915793416162}
+  m_Layer: 0
+  m_Name: BigBanner2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5700494952577097073
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8727489648382839264}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3012022661265753681}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9185782915793416162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8727489648382839264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d71f23881f7c94498e372b8557cf4ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowBannerOnLoad: 0
+  Use3Ids: 1
+  BannerPosition: 5
+  BannerType: 3
+  BannerIdHigh: ca-app-pub-3940256099942544/6300978111
+  BannerIdMedium: ca-app-pub-3940256099942544/6300978111
+  BannerId: ca-app-pub-3940256099942544/6300978111
+  isShowing: 0
+  LastTimeActive: 0
+--- !u!1 &9211946227100654015
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7287944317369106435}
+  - component: {fileID: 1715166780187841598}
+  m_Layer: 0
+  m_Name: Banner2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7287944317369106435
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9211946227100654015}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3012022661265753681}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1715166780187841598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9211946227100654015}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d71f23881f7c94498e372b8557cf4ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowBannerOnLoad: 0
+  Use3Ids: 1
+  BannerPosition: 1
+  BannerType: 1
+  BannerIdHigh: ca-app-pub-3940256099942544/6300978111
+  BannerIdMedium: ca-app-pub-3940256099942544/6300978111
+  BannerId: ca-app-pub-3940256099942544/6300978111
+  isShowing: 0
+  LastTimeActive: 0

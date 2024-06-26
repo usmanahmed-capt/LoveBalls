@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "Untitled-9_0001_settings.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 978,
+        "h": 506
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 978,
+        "h": 506
+      },
+      "sourceSize": {
+        "w": 978,
+        "h": 506
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-9_0000_Rounded-Rectangle-2.png": {
+      "frame": {
+        "x": 2,
+        "y": 512,
+        "w": 977,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 977,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 977,
+        "h": 74
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "setting .png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"a494a13a-069d-4fd3-a933-f611dc33d180\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"PingThreshold\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 120\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"065bc401-594b-4216-8b33-a9b606a941d8\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"hideBigBannerBool\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"261168f2-fad0-4f08-879d-4e2a649b5904\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AdmobFirst\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"69130ceb-0d3e-4a23-afea-b1d7f1e9c370\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"AdTimer\",\r\n      \"type\": \"int\",\r\n      \"value\": 20\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"ee5b72c4-4744-438f-9bb2-3026f29f3281\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"UseInterstitialToUnlock\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"9bec849d-5ae6-4aca-b3d3-20772e63cb60\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"UseVideoInterstitialToUnlock\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"01b4fa38-c32e-4170-91f0-f17ee3cfa186\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"IsMediationBottomBanner01\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"51948bef-7ce3-4447-922b-6a81987a08f6\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"CanAppOpenOrInter\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"0d684c9a-c44c-4a38-b5de-837cdfde92df\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"UseMediationBanner01\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"0d312177-cb93-4907-ba5d-54cad7c6a892\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"cancheckinternet\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"c7851f75-bf32-4976-bfc6-da2dfad536c0\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"AdmobFirstInGame\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"c4cb541f-6120-4f14-ac99-7229157c6d2a\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"ReviewGame_01\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    false\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"a494a13a-069d-4fd3-a933-f611dc33d180\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"PingThreshold\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 120\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"065bc401-594b-4216-8b33-a9b606a941d8\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"hideBigBannerBool\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"261168f2-fad0-4f08-879d-4e2a649b5904\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AdmobFirst\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"69130ceb-0d3e-4a23-afea-b1d7f1e9c370\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"AdTimer\",\r\n      \"type\": \"int\",\r\n      \"value\": 20\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"ee5b72c4-4744-438f-9bb2-3026f29f3281\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"UseInterstitialToUnlock\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"9bec849d-5ae6-4aca-b3d3-20772e63cb60\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"UseVideoInterstitialToUnlock\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"01b4fa38-c32e-4170-91f0-f17ee3cfa186\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"IsMediationBottomBanner01\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"51948bef-7ce3-4447-922b-6a81987a08f6\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"CanAppOpenOrInter\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"0d684c9a-c44c-4a38-b5de-837cdfde92df\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"UseMediationBanner01\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"0d312177-cb93-4907-ba5d-54cad7c6a892\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"cancheckinternet\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"c7851f75-bf32-4976-bfc6-da2dfad536c0\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"AdmobFirstInGame\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"c4cb541f-6120-4f14-ac99-7229157c6d2a\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"ReviewGame_01\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    false\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"abae1cc2-e1ee-46da-a4d6-18953399a6b0\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"2bf173a4-6fa0-47b4-804d-0806ad19ec50\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2024-02-15T09:42:07Z\",\r\n    \"updatedAt\":
+    \"2024-02-15T09:42:07Z\"\r\n  }\r\n]"
